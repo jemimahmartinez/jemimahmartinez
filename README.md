@@ -8,7 +8,10 @@
 
 Contact me here! 
 
-[<img src = "mail.png">](mailto:martinezjemimah@gmail.com) [<img src = "linkedin.png">](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/) [<img src = "github.png">](https://github.com/jemimahmartinez)
+[![Linkedin: jemimahmartinez](https://img.shields.io/badge/-jemimahmartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jemimah-martinez-a0924a18b/)](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/)
+
+
+<!--[<img src = "mail.png">](mailto:martinezjemimah@gmail.com) [<img src = "linkedin.png">](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/) [<img src = "github.png">](https://github.com/jemimahmartinez) -->
 
 
 
