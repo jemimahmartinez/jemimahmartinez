@@ -9,6 +9,8 @@
 Contact me here! 
 
 [![Linkedin: jemimahmartinez](https://img.shields.io/badge/-jemimahmartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jemimah-martinez-a0924a18b/)](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/)
+[![GitHub: jemimahmartinez](https://img.shields.io/badge/-jemimahmartinez-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jemimahmartinez)](https://github.com/jemimahmartinez)
+[![Email: jemimahmartinez](https://img.shields.io/badge/-martinezjemimah-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinezjemimah@gmail.com)](mailto:martinezjemimah@gmail.com)
 
 
 <!--[<img src = "mail.png">](mailto:martinezjemimah@gmail.com) [<img src = "linkedin.png">](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/) [<img src = "github.png">](https://github.com/jemimahmartinez) -->
