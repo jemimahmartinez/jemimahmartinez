@@ -6,8 +6,11 @@ I am interested in a Computer or Software Engineering job that will provide a wa
 
 ***“If I can do it, then I owe it to those who need it most.”***
 
-📫 How to reach me: martinezjemimah@gmail.com
-     
+📫 How to reach me:
+- [Email](martinezjemimah@gmail.com)
+- [![LinkedIn](linkedin.png)][2]
+
+[2]: (https://www.linkedin.com/in/jemimah-martinez-a0924a18b/)
 
 
 <!--
