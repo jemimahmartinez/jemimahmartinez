@@ -14,6 +14,13 @@ Contact me here!
 
 [![Email: jemimahmartinez](https://img.shields.io/badge/-martinezjemimah-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinezjemimah@gmail.com)](mailto:martinezjemimah@gmail.com)
 
+More about me:
+```javascript
+const Jemimah = {
+  programming languages = [C, VHDL, JavaScript, Java, Python, HTML, CSS, C++, MATLAB;
+  tools = [Git/GitHub, React, Node, Jest];
+}
+```
 
 <!--[<img src = "mail.png">](mailto:martinezjemimah@gmail.com) [<img src = "linkedin.png">](https://www.linkedin.com/in/jemimah-martinez-a0924a18b/) [<img src = "github.png">](https://github.com/jemimahmartinez) -->
 
