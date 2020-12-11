@@ -2,7 +2,7 @@
 
 My name is Jemimah Martinez :woman_student: and I am a Computer Systems Engineering student in my penultimate year at the University of Auckland 
 
-I am interested in a Computer or Software Engineering internship that will provide a way to broaden my knowledge on what I am currently learning. Furthermore, give me an understanding of how engineering impacts the world around us. 
+I am interested in anything Computer or Software Engineering related that will provide a way to broaden my knowledge on what I am currently learning. Furthermore, give me an understanding of how engineering impacts the world around us. 
 
 ### ***“If I can do it, then I owe it to those who need it most.”***
 
@@ -17,8 +17,8 @@ Contact me here!
 More about me:
 ```javascript
 const Jemimah = {
-  programming languages = [C, VHDL, JavaScript, Java, Python, HTML, CSS, C++, MATLAB;
-  tools = [Git/GitHub, React, Node, Jest];
+  programming_languages: ['C', 'VHDL', 'JavaScript', 'Java', 'Python', 'HTML', 'CSS', 'C++', 'MATLAB', 'TypeScript', 'YAML'],
+  tools: ['Git/GitHub', 'React', 'Node', 'Jest', 'EsLint', 'AWS', 'Slack', 'Jira'],
 }
 ```
 
