@@ -11,8 +11,8 @@ Contact me here:
 #
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jemimahmartinez&count_private=true&include_all_commits=true&show_icons=true" />
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemimahmartinez&layout=compact&hide=ShaderLab,HLSL,HTML,TSQL&langs_count=10" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jemimahmartinez&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
+   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemimahmartinez&layout=compact&hide=ShaderLab,HLSL,HTML,TSQL&langs_count=10&theme=tokyonight&hide_border=true" />
 </div>
 
 #
