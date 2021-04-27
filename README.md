@@ -27,4 +27,8 @@ const Jemimah = {
 
 <!--- <details>
   <summary>Click here for a cheeky surprise</summary>
-</details> -->
+  <a href="https://www.youtube.com/watch?v=-ghDhPliQQs">EngRevue 2020 Choreographers</a>
+  <a href="https://www.youtube.com/watch?v=xG1Lhne3f9M">The coolest hip hop dance ever</a>
+  <a href="https://www.youtube.com/watch?v=wqyCCTLCqa0">I made the tech for this</a>
+</details> 
+-->
